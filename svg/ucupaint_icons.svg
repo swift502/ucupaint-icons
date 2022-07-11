@@ -8,7 +8,7 @@
    sodipodi:version="0.32"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    version="1.0"
-   sodipodi:docname="blender_icons_flat.svg"
+   sodipodi:docname="ucupaint_icons.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    style="display:inline;enable-background:new"
    inkscape:export-filename="blender_icons16.png"
@@ -12765,9 +12765,9 @@
      objecttolerance="10000"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="69.875"
-     inkscape:cy="22"
+     inkscape:zoom="11.313708"
+     inkscape:cx="39.244426"
+     inkscape:cy="168.02625"
      inkscape:document-units="px"
      inkscape:current-layer="g49511"
      showgrid="true"
@@ -15579,7 +15579,7 @@
       <g
          style="display:inline;enable-background:new"
          id="ICON_TRIA_DOWN"
-         transform="matrix(0.75,0,0,0.8125,-327.54936,-163.63258)">
+         transform="matrix(0.75,0,0,0.8125,-306.54936,-16.63258)">
         <rect
            style="display:inline;overflow:visible;visibility:visible;opacity:0;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.8;marker:none;enable-background:accumulate"
            id="rect24909"
@@ -15605,7 +15605,7 @@
       <g
          style="display:inline;enable-background:new"
          id="ICON_TRIA_RIGHT"
-         transform="matrix(0.875,0,0,0.75,-131.29936,-180.32008)">
+         transform="matrix(0.875,0,0,0.75,-321.29936,-12.32008)">
         <rect
            style="display:inline;overflow:visible;visibility:visible;opacity:0;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.8;marker:none;enable-background:accumulate"
            id="rect24907"
