@@ -1,4 +1,10 @@
-# Ucupaint icons
+![](./png/group_icon.png)
+![](./png/texture_icon.png)
+![](./png/rename_icon.png)
+![](./png/object_index_icon.png)
+![](./png/mask_icon.png)
+
+# Flat ucupaint icons
 
 ### Setup
 1. Get Python
