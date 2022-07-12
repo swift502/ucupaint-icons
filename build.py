@@ -1,5 +1,4 @@
 import json
-from logging import error
 from PIL import Image
 
 # Data
@@ -43,7 +42,7 @@ def process_overlays():
 
         for i in overlay_tiles:
             if i >= len(icons):
-                error(f"Overlay \"{overlay_name}\" is defined for an image index that's out of icon name range ({i}). Skipping.")
+                print(f"Warning: Overlay \"{overlay_name}\" is defined for an image index that's out of icon name range ({i}). Skipping.")
                 continue
 
             tile = crop_tile(i)
@@ -55,7 +54,7 @@ def process_disabled():
     for d in range(len(disabled)):
         i = disabled[d]
         if i >= len(icons):
-            error(f"Disabled icon definition is out of icon name range ({i}). Skipping.")
+            print(f"Warning: Disabled icon definition is out of icon name range ({i}). Skipping.")
             continue
 
         tile = crop_tile(i)
