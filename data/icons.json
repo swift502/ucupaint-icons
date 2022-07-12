@@ -16,8 +16,11 @@
     "open_image_icon",
     "rename_icon",
     "texture_icon",
+    "uv_icon",
+    "vertex_color_icon",
     "channels_icon",
     "rgb_channel_icon",
     "value_channel_icon",
-    "vector_channel_icon"
+    "vector_channel_icon",
+    "asterisk_icon"
 ]
