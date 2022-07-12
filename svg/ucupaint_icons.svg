@@ -9188,9 +9188,9 @@
      objecttolerance="10000"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627416"
-     inkscape:cx="38.802486"
-     inkscape:cy="35.620506"
+     inkscape:zoom="31.999999"
+     inkscape:cx="34.375002"
+     inkscape:cy="12.531251"
      inkscape:document-units="px"
      inkscape:current-layer="g49511"
      showgrid="true"
@@ -11092,7 +11092,7 @@
            d="m 50.332031,41.222656 -1.667969,3.207031 0.968751,0.914063 3.203125,-1.734375 z"
            style="fill:#f3deb6;fill-opacity:1;stroke-width:1px"
            inkscape:connector-curvature="0" /><path
-           style="fill:#445016;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#505050;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
            d="m 48.25,45.75 0.5,-0.5"
            id="path40264"
            sodipodi:nodetypes="cc"
@@ -11100,7 +11100,7 @@
            sodipodi:nodetypes="cc"
            id="path40266"
            d="M 48.25,45.75 48.5,45.5"
-           style="fill:none;stroke:#333333;stroke-width:1.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#757575;stroke-width:1.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:connector-curvature="0" /></g><g
          id="ICON_RENDER_STILL"
          transform="translate(-467.04936,-628.56876)"><g
@@ -11125,7 +11125,7 @@
                sodipodi:nodetypes="ccccccccc"
                id="path39996"
                d="M 216.00001,479.40741 V 484 c 0,0.56404 0.36784,1.00001 0.84375,1 h 11.3125 c 0.47591,0 0.84375,-0.43595 0.84375,-1 v -4.59259 C 228.6863,479.7792 228.23078,480 227.75001,480 h -10.5 c -0.48077,0 -0.93629,-0.2208 -1.25,-0.59259 z"
-               style="display:inline;overflow:visible;visibility:visible;fill:#252525;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+               style="display:inline;overflow:visible;visibility:visible;fill:#373737;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
                inkscape:connector-curvature="0" /><rect
                rx="1.5817194"
                style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
