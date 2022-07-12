@@ -8,7 +8,7 @@ disabled = json.load(open('./data/disabled.json'))
 
 # Icon sheet
 sheet = Image.open('./svg/sheet.png')
-padding = 0.1
+padding = 0.115
 vertical_correction = -10
 tile_size = sheet.width / 10
 

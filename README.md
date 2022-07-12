@@ -1,8 +1,8 @@
-![](./png/group_icon.png)
+![](./png/bake_icon.png)
 ![](./png/texture_icon.png)
 ![](./png/rename_icon.png)
 ![](./png/object_index_icon.png)
-![](./png/mask_icon.png)
+![](./png/hemi_icon.png)
 
 # Flat ucupaint icons
 
