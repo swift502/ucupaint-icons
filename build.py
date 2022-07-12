@@ -8,14 +8,11 @@ disabled = json.load(open('./data/disabled.json'))
 
 # Icon sheet
 sheet = Image.open('./svg/sheet.png')
-padding = .1
+padding = 0.1
 vertical_correction = -10
 tile_size = sheet.width / 10
 
-def save(tile, name):
-    tile = tile.resize((32, 32), Image.Resampling.LANCZOS)
-    tile.save(f"./png/{name}.png")
-
+# Tile extractor
 def crop_tile(index):
     col = index % 10
     row = index // 10
@@ -27,6 +24,11 @@ def crop_tile(index):
 
     coords = (left, top, right, bottom)
     return sheet.crop(coords)
+
+# Tile downscale and save
+def save(tile, name):
+    tile = tile.resize((32, 32), Image.Resampling.LANCZOS)
+    tile.save(f"./png/{name}.png")
 
 # Regular
 def process_regular():
