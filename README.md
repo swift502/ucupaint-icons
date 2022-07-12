@@ -1,6 +1,6 @@
 # Ucupaint icons
 
-### Preparation
+### Setup
 1. Get Python
 2. Get Inkscape
 3. Run `pip install -r requirements.txt`
